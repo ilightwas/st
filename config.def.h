@@ -5,13 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono Medium:size=10";
+static char *font = "stfont:size=10:antialias=true:hinting=true:hintstyle=hintslight";
 /* Spare fonts */
 static char *font2[] = {
-	"JetBrains Mono:size=10",
-	"Font Awesome 5 Free:size=10",
-	"Font Awesome 5 Free Brands:size=10",
-	"Font Awesome 5 Free Solid:size=10",
+	"JetBrainsMonoNL Nerd Font:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"Font Awesome 5 Free:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"Font Awesome 5 Free Brands:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"Font Awesome 5 Free Solid:size=10:antialias=true:hinting=true:hintstyle=hintslight",
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
