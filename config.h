@@ -12,6 +12,7 @@ static char *font2[] = {
 	"Font Awesome 5 Free:size=10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Font Awesome 5 Free Brands:size=10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Font Awesome 5 Free Solid:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"Noto Sans Mono:size10:antialias=true:hinting=true:hintstyle=hintslight"
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
