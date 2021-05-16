@@ -9,6 +9,7 @@ static char *font = "JetBrainsMonoNL Nerd Font:size=10:antialias=true:hinting=tr
 /* Spare fonts */
 static char *font2[] = {
 	"JetBrainsMonoNL Nerd Font:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"Symbola:size10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Noto Sans Mono:size10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Noto Color Emoji:size10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Font Awesome 5 Free:size=10:antialias=true:hinting=true:hintstyle=hintslight",
