@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMonoNL Nerd Font:size=10:antialias=true:hinting=true:hintstyle=hintslight";
+static char *font = "JetBrainsMonoNL Nerd Font Mono:size=10:antialias=true:hinting=true:hintstyle=hintslight";
 /* Spare fonts */
 static char *font2[] = {
-	"JetBrainsMonoNL Nerd Font:size=10:antialias=true:hinting=true:hintstyle=hintslight",
+	"JetBrainsMonoNL Nerd Font Mono:size=10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Symbola:size10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Noto Sans Mono:size10:antialias=true:hinting=true:hintstyle=hintslight",
 	"Noto Color Emoji:size10:antialias=true:hinting=true:hintstyle=hintslight",
